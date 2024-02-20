@@ -1,11 +1,13 @@
 const videosList = [
 {
-	video: 'images/vid-9.mp4',
-	title: '3D helicopter animation'
+	video: 'https://www.udrop.com/file/Lxe8/Hokkaido-Gals-Are-Super-Adorable-S01E02-720p-HIN-ENG-JAP-PIKAHD.COM.mkv.compressed.compressed.mp4',
+	title: '
+Hokkaido-Gals-Are-Super-Adorable-S01E01'
 },
 {
-	video: 'images/vid-3.mp4',
-	title: 'emoji falling animation'
+	video: 'https://www.udrop.com/file/Lxdd/Hokkaido-Gals-Are-Super-Adorable-S01E01-720p-HIN-ENG-JAP-PIKAHD.COM.mkv.compressed.mp4',
+	title: '
+Hokkaido-Gals-Are-Super-Adorable-S01E02'
 },
 {
 	video: 'images/vid-1.mp4',
